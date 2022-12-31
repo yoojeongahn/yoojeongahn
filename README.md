@@ -1,9 +1,9 @@
-### Hi! I'm JeongAhn
+## Hi! I'm JeongAhn
 
 <br>
 
 - ### 🔭 I’m currently working on  
-SSAFY 8th(Samsung Software Academy for Youth)  
+Samsung Software Academy for Youth(SSAFY)
   
 <br>
 
