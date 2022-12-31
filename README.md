@@ -8,7 +8,7 @@ Samsung Software Academy for Youth(SSAFY)
 <br>
 
 - ### 🌱 I’m interested in   
-Backend, Algorithm, AI, Computer science, Data science   
+Backend, Data science, AI, Computer science, Algorithm   
 
 
 <br>
