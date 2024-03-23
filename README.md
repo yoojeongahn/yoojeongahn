@@ -2,13 +2,14 @@
 
 <br>
 
-- ### 🔭 I’m currently working on  
-Samsung Software Academy for Youth(SSAFY)
+- ### 🔭 I’m currently working on
+NH Bank (2023 ~ now)
+Samsung Software Academy for Youth(SSAFY) (2022 ~ 2023)
   
 <br>
 
 - ### 🌱 I’m interested in   
-Backend, Data science, AI, Computer science, Algorithm   
+Backend, Data science, AI, Algorithm, Computer science
 
 
 <br>
