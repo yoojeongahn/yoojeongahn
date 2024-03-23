@@ -2,7 +2,7 @@
 
 <br>
 
-- ### 🔭 I’m currently working on
+- ### 🔭 I’m currently working at
 
   NH Bank (2023 ~ now) , IT
 
